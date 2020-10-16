@@ -1724,3 +1724,16 @@ html { scroll-behavior: smooth; }
     width: 100%;
     z-index: 2;
 }
+
+#ember4
+{
+    margin-top: 55px;
+}
+
+.kek
+{
+    background-color: #231a13;
+    background-image: url(/img/kek.png);
+    background-repeat: repeat-x;
+    background-position: center top -200px;
+}
