@@ -45,5 +45,3 @@ let allowedKeys = {
     
     mutefunction();
   }
-
- 
