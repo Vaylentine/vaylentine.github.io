@@ -349,3 +349,8 @@ p {
     top: 100px;
     box-shadow: 0 0 30px #907fb97a
 }
+
+a.disabled {
+    pointer-events: none;
+    cursor: default;
+  }

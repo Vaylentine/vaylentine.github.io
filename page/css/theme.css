@@ -1737,3 +1737,8 @@ html { scroll-behavior: smooth; }
     background-repeat: repeat-x;
     background-position: center top -200px;
 }
+
+a.disabled {
+    pointer-events: none;
+    cursor: default;
+  }
