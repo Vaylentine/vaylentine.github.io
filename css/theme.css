@@ -375,14 +375,3 @@ a.disabled {
 .unnus{
     margin-top: 50px;
 }
-
-.error-message .error-type {
-	font-size: 9.5rem;
-	font-family: "Blizzard",Helvetica,Arial,sans-serif;
-	line-height: 1em;
-	color: #00aeff;
-}
-
-.error-message {
-	text-align: center;
-}
