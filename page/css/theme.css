@@ -1750,10 +1750,9 @@ html { scroll-behavior: smooth; }
         border-top: solid 1px rgba(255,255,255,0.15);
         box-shadow: none;
 position:fixed;
-left: -5000px;
-right: -5000px;
-top: 864px;
-bottom:-500px;
+bottom: 0;
+width: 100%;
+overflow: hidden;
 margin-top: 20px;
 }
 
