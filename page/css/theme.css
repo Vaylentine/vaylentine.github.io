@@ -1727,7 +1727,7 @@ html { scroll-behavior: smooth; }
 
 #ember4
 {
-    margin-top: 55px;
+    margin-top: 30px;
 }
 
 .kek
@@ -1753,7 +1753,7 @@ position:fixed;
 bottom: 0;
 width: 100%;
 overflow: hidden;
-margin-top: 20px;
+margin-top: 200px;
 }
 
 a.disabled {
